@@ -1,8 +1,8 @@
-Origin: TheRyRyGuy Public Repository
-Label: TheRyRyGuy Public Repo
+Origin: TheRyRyGuy Repo
+Label: TheRyRyGuy Repo
 Suite: stable
 Version: 0.1
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: TheRyRyGuy Public Repository
+Description: TheRyRyGuy Repo
