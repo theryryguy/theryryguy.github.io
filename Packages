@@ -1,13 +1,13 @@
 Package: com.theryryguy.pulito
-Version: 0.3.1
+Version: 0.3.2
 Architecture: iphoneos-arm
 Maintainer: TheRyRyGuy <theryryguy@live.com>
 Depends: winterboard
-Filename: ./debs//com.theryryguy.pulito_0.3.1_iphoneos-arm.deb
-Size: 2992426
-MD5sum: 86ab61b52619fabfb73ab6cb2fd2c5f6
-SHA1: 883f52d9efa39784893c9e4d4ee58f3a960ad043
-SHA256: 44965b1a858dea3ad92ddc34444762c7620a89940c7b1d889b5b29636167d73b
+Filename: ./debs//com.theryryguy.pulito_0.3.2_iphoneos-arm.deb
+Size: 2992488
+MD5sum: 06ed5ca8d1e5c62d98c11eb5173ddcbf
+SHA1: d74c837b39926045bd582e20499af454fb931ba8
+SHA256: d498c43890be3612a78b1786a825147877376b756b8f0773a81538d13e14f331
 Section: Themes (SpringBoard)
 Description: A clean and uniform icon theme that changes the look of 500+ icons. I took the logo of each icon, made it white, and laid it against the app's dominant color. New app icons can be requested by emailing TheRyRyGuy@live.com
 Author: TheRyRyGuy
