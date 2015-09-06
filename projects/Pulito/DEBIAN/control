@@ -1,9 +1,9 @@
 Package: com.theryryguy.pulito
 Name: Pulito
 Depends: winterboard
-Version: 0.3.7
+Version: 0.3.8
 Architecture: iphoneos-arm
-Description: A clean and uniform icon theme that changes the look of 500+ icons. I took the logo of each icon, made it white, and laid it against the app's dominant color. New app icons can be requested by emailing TheRyRyGuy@live.com
+Description: A flat, clean, and uniform icon theme that changes the look of 550+ icons. This theme consists of a the app's logo in white laid against a colored background. New app icons can be requested by emailing TheRyRyGuy@live.com
 Maintainer: TheRyRyGuy <theryryguy@live.com>
 Author: TheRyRyGuy
 Section: Themes (SpringBoard)
