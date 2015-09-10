@@ -1,7 +1,7 @@
 Package: com.theryryguy.pulito
 Name: Pulito
 Depends: winterboard
-Version: 0.3.10
+Version: 0.3.11
 Architecture: iphoneos-arm
 Description: A flat, clean, and uniform icon theme that changes the look of 550+ icons. This theme consists of a the app's logo in white laid against a colored background. New app icons can be requested by emailing TheRyRyGuy@live.com
 Maintainer: TheRyRyGuy <theryryguy@live.com>
